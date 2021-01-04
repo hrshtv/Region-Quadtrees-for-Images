@@ -1,6 +1,7 @@
 #include <iostream>
 /*
-    Description: Region quadtrees implemented in C++ for handling binary images
+    Description: Region quadtrees implemented in C++ for handling binary images  
+    Author: Harshit Varma 
 */
 
 // A helper function to print things
